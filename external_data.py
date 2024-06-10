@@ -33,10 +33,10 @@ twd97 = Proj(proj="tmerc",
              y_0=0,
              ellps="GRS80")
 
-path = "./30_Public Dataset_Public Sumission Template_v2"
+path = "./data/30_Public Dataset_Public Sumission Template_v2"
 train = pd.read_csv(f"{path}/public_dataset.csv")
 
-folder_path = "./30_Training Dataset_V2/external_data"
+folder_path = "./data/30_Training Dataset_V2/external_data"
 files = os.listdir(folder_path)
 
 for file in files:

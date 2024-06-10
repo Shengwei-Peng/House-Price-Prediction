@@ -28,6 +28,10 @@ This repository contains the code and resources for the  house price prediction.
 
 ## Usage
 
+### Data Preparation
+
+Place your training data in the `data` directory.
+
 ### Adding External Information
 
 Use the `external_data.py` script to incorporate additional external information into your dataset:
@@ -53,6 +57,10 @@ We welcome contributions from the community. Please follow these steps to contri
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 

@@ -72,8 +72,8 @@ def Test(
 
 def main() -> None:
 
-    train_path = "./30_Training Dataset_V2"
-    test_path = "./30_Public Dataset_Public Sumission Template_v2"
+    train_path = ".data/30_Training Dataset_V2"
+    test_path = ".data/30_Public Dataset_Public Sumission Template_v2"
     model = CatBoostRegressor(iterations=1e6,
                               depth=10,
                               border_count=512,
