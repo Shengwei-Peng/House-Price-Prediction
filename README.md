@@ -48,6 +48,15 @@ Use the `main.py` script to load the data, train the model, and test it:
 python main.py
 ```
 
+## Project Structure
+
+- `LICENSE`: The license for the project.
+- `README.md`: The readme file you are currently reading.
+- `external_data.py`: Script for fetching and processing external data.
+- `main.py`: Main script to run the project.
+- `requirements.txt`: List of required Python packages.
+- `data/`: Directory for storing datasets (not shown, but should be created).
+
 ## Contributing
 
 We welcome contributions from the community. Please follow these steps to contribute:
