@@ -30,7 +30,9 @@ This repository contains the code and resources for the  house price prediction.
 
 ### Data Preparation
 
-Place your training data in the `data` directory.
+1. Place your training data in the `data` directory. Ensure your data is in a suitable format (e.g., CSV).
+2. Preprocess the data using the provided scripts in the `preprocessing` directory. This may include steps such as cleaning, normalization, and feature extraction.
+
 
 ### Adding External Information
 
@@ -67,6 +69,11 @@ We welcome contributions from the community. Please follow these steps to contri
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
+### Issues
+
+If you encounter any issues or have suggestions for improvements, please feel free to open an issue in the GitHub repository.
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
@@ -74,3 +81,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or inquiries, please contact m11207330@mail.ntust.edu.tw
+
+## Acknowledgements
+
+We would like to express our sincere gratitude to the following organizations for providing valuable data and organizing the YongFeng AI GO Competition:
+
+### Organizer: SinoPac Holdings
+### Co-organizer: Trend Micro
+
+Thank you for your support and for making this competition a valuable experience for all participants.
