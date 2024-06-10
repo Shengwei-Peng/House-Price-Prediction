@@ -30,9 +30,7 @@ This repository contains the code and resources for the  house price prediction.
 
 ### Data Preparation
 
-1. Place your training data in the `data` directory. Ensure your data is in a suitable format (e.g., CSV).
-2. Preprocess the data using the provided scripts in the `preprocessing` directory. This may include steps such as cleaning, normalization, and feature extraction.
-
+Place your training data in the `data` directory.
 
 ### Adding External Information
 
