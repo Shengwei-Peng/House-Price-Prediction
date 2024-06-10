@@ -28,7 +28,19 @@ This repository contains the code and resources for the  house price prediction.
 
 ## Usage
 
+### Adding External Information
 
+Use the `external_data.py` script to incorporate additional external information into your dataset:
+    ```bash
+    python external_data.py
+    ```
+
+### Model Training and Testing
+
+Use the `main.py` script to load the data, train the model, and test it:
+    ```bash
+    python main.py
+    ```
 
 ## Contributing
 
