@@ -84,9 +84,12 @@ For any questions or inquiries, please contact m11207330@mail.ntust.edu.tw
 
 ## Acknowledgements
 
-We would like to express our sincere gratitude to the following organizations for providing valuable data and organizing the YongFeng AI GO Competition:
+We would like to express our gratitude to the following organizations for providing the data and organizing the YongFeng AI GO Competition:
 
 ### Organizer: SinoPac Holdings
-### Co-organizer: Trend Micro
+Thank you to SinoPac Holdings for providing the valuable data and hosting this competition.
 
-Thank you for your support and for making this competition a valuable experience for all participants.
+### Co-organizer: Trend Micro
+Thank you to Trend Micro for their support and collaboration in making this competition possible.
+
+Your efforts and contributions are greatly appreciated.
