@@ -1,21 +1,26 @@
 # House Price Prediction
 
-## Repository Overview
+![house_price_prediction](imgs/house_price_prediction.png)
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Issues](#issues)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+
+## Introduction
 
 This repository contains the code and resources for the  house price prediction. The objective is to develop an AI model that can accurately predict the value of real estate properties based on various influential factors.
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.8 or higher
-- Required Python packages (listed in `requirements.txt`)
-
-### Installation
+## Installation
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Shengwei0516/House-Price-Prediction.git
+    git clone https://github.com/Shengwei-Peng/House-Price-Prediction.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -28,34 +33,25 @@ This repository contains the code and resources for the  house price prediction.
 
 ## Usage
 
-### Data Preparation
+1. Data Preparation
 
-Place your training data in the `data` directory.
+    Place your training data in the `data` directory.
 
-### Adding External Information
+2. Adding External Information
 
-Use the `external_data.py` script to incorporate additional external information into your dataset:
+    Use the `external_data.py` script to incorporate additional external information into your dataset:
 
-```bash
-python external_data.py
-```
+    ```bash
+    python external_data.py
+    ```
 
-### Model Training and Testing
+3. Model Training and Testing
 
-Use the `main.py` script to load the data, train the model, and test it:
+    Use the `main.py` script to load the data, train the model, and test it:
 
-```bash
-python main.py
-```
-
-## Project Structure
-
-- `LICENSE`: The license for the project.
-- `README.md`: The readme file you are currently reading.
-- `external_data.py`: Script for fetching and processing external data.
-- `main.py`: Main script to run the project.
-- `requirements.txt`: List of required Python packages.
-- `data/`: Directory for storing datasets (not shown, but should be created).
+    ```bash
+    python main.py
+    ```
 
 ## Contributing
 
@@ -67,7 +63,7 @@ We welcome contributions from the community. Please follow these steps to contri
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
-### Issues
+## Issues
 
 If you encounter any issues or have suggestions for improvements, please feel free to open an issue in the GitHub repository.
 
@@ -84,5 +80,5 @@ For any questions or inquiries, please contact m11207330@mail.ntust.edu.tw
 
 We would like to express our gratitude to the following organizations for providing the data:
 
-### SinoPac Holdings
-### Trend Micro
+- SinoPac Holdings
+- Trend Micro
